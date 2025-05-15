@@ -1,0 +1,104 @@
+License Agreement
+
+This License Agreement (hereinafter referred to as the "Agreement") is concluded between you (hereinafter referred to as the "Licensee") and Blablabla Blueblublu (hereinafter referred to as the "Licensor"), and enters into force upon installation or use of the software (hereinafter referred to as the "Software") provided by the Licensor.
+
+1. Subject of the Agreement
+
+The Licensor grants the Licensee a non-exclusive, non-transferable license to use the Software in accordance with the terms of this Agreement.
+
+The Licensee has the right to install and use the Software on one or more devices, and the number of devices must not exceed the number specified in the Software documentation.
+
+2. Rights and obligations of the Licensee
+
+2.1. The Licensee undertakes to use the Software only for legitimate purposes and in accordance with the terms of this Agreement.
+
+2.2. The Licensee does not have the right to:
+
+Modify, adapt, translate, or create derivative works based on the Software.
+Distribute, sell, lease, or otherwise transfer the Software to third parties.
+Delete or modify any proprietary notices contained in the Software.
+3. Rights and obligations of the Licensor
+
+3.1. The Licensor reserves the right to change the terms of this Agreement at any time by notifying the Licensee.
+
+3.2. The Licensor is not responsible for any losses resulting from the use or inability to use the Software.
+
+4. Guarantees and Disclaimers of liability
+
+4.1. The Software is provided "as is" and Licensor makes no warranties, express or implied, including, but not limited to, warranties of merchantability or fitness for a particular purpose.
+
+4.2. The Licensor is not responsible for any direct, indirect, incidental, special or consequential damages resulting from the use or inability to use the Software.
+
+5.Period of validity and termination
+
+5.1. This Agreement comes into force from the moment the Software is installed and is valid as long as the Licensee uses the Software.
+
+5.2. The Licensor has the right to terminate this Agreement at any time by notifying the Licensee of such termination.
+
+6. Privacy
+
+6.1. The Licensee undertakes to keep confidential any confidential information received from the Licensor during the implementation of this Agreement.
+
+6.2. Confidential information does not include information that:
+
+It became publicly available without violating the Licensee's obligations.
+Was known to the Licensee prior to its disclosure by the Licensor.
+7. Applicable law
+
+This Agreement is governed by and interpreted in accordance with the laws of the country in which the Licensor is registered.
+
+8. Dispute resolution
+
+All disputes arising from this Agreement are subject to judicial resolution in accordance with the legislation specified in paragraph 7.
+
+9. Final provisions
+
+9.1. This Agreement is a complete agreement between the parties and supersedes all previous agreements and arrangements relating to the subject matter of this Agreement.
+
+9.2. Any changes and additions to this Agreement must be made in writing and signed by both parties.
+
+10. Additional Terms and Conditions
+
+10.1. The Licensee confirms that he has read the terms of this Agreement and accepts them.
+
+10.2. The Licensee is solely responsible for compliance with all applicable laws and regulations in connection with the use of the Software.
+
+11. Consent to the processing of personal data
+
+11.1. The Licensee consents to the processing of his personal data provided to the Licensor during the use of the Software.
+
+11.2. The Licensor undertakes to process the Licensee's personal data in accordance with the applicable laws on personal data protection and this Agreement.
+
+11.3. The Licensor has the right to use the Licensee's personal data for the following purposes::
+
+11.3.1. Ensuring the functioning of the Software.
+
+11.3.2. Notifying the Licensee of updates and changes to the Software.
+
+11.3.3. Conducting analysis and research to improve the quality of the Software.
+
+11.3.4. Fulfillment of obligations under this Agreement.
+
+11.4. The Licensee has the right to withdraw his consent to the processing of personal data at any time by notifying the Licensor in writing. In case of withdrawal of consent, the Licensor stops processing personal data, unless otherwise provided by law.
+
+11.5. The Licensor shall take the necessary measures to protect the Licensee's personal data from unauthorized access, loss or destruction.
+
+11.6. The Licensor has no right to transfer the Licensee's personal data to third parties without the prior consent of the Licensee, except in cases stipulated by law.
+
+12. Changes to the Agreement
+
+12.1. The Licensor reserves the right to amend this Agreement at any time.
+
+12.2. All changes come into effect from the moment of their publication on the Licensor's official website or in any other way provided by the Licensor.
+
+12.3. The Licensee undertakes to periodically check the terms of this Agreement for changes.
+
+12.4. Continued use of the Software after making changes means that the Licensee agrees to the new terms.
+
+13. Force majeure
+
+13.1. The Licensor is not responsible for the full or partial non-fulfillment of its obligations under this Agreement, if such non-fulfillment was the result of force majeure circumstances (force majeure).
+
+13.2. Force majeure circumstances include, but are not limited to: natural disasters, wars, strikes, actions of government agencies, as well as other circumstances that could not have been foreseen or prevented.
+
+13.3. In the event of force majeure, the Licensor is obliged to notify the Licensee of such circumstances within a reasonable time.
